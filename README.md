@@ -1,5 +1,5 @@
 # Codefundo-2018
-                        <Title>
+                              EFFECTIVE DISTRIBUTION OF AID DURING A NATURAL DISASTER
 Natural disasters can have a life-altering impact on the individuals and families fortunate enough to survive them. How well the impact of a disaster event is absorbed has much to do with the intensity of the impact and the level of preparedness and resilience of the subject impacted.Keeping this in mind there is a lot of scope in increasing the level of  preparedness for a disaster which is why we’ve decided to make a project focusing on improving current frameworks for dealing with the aftermath of such horrific events.
 
 In case of floods , there is need for the distribution of  relief material in the immediate aftermath and this needs to be done in the most efficient manner possible so as to reduce time ,effort and manpower all of which are precious resources in such a crisis. 
